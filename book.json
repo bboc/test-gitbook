@@ -1,0 +1,12 @@
+{
+	"structure": {
+		"readme": "index.md",
+		"summary": "structure.md"
+	},
+	"title": "foobar",
+	"description": "some book"
+	"author": "a name",
+
+	"language": "en"
+
+}
